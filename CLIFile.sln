@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapView", "MapView\MapView.csproj", "{1FF004A8-1B38-4614-A517-374067B6967F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIFile", "CLIFile.csproj", "{989A4726-7398-44AD-B5DF-860D0092F8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIFileTestUnit", "CLIFileTestUnit\CLIFileTestUnit.csproj", "{EE374909-51EE-48B7-9F91-406BB4094617}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44028506-24E7-4B5D-A541-1292D71CF6BA}"
+	ProjectSection(SolutionItems) = preProject
+		CLIFile.vsmdi = CLIFile.vsmdi
+		CLIFile1.vsmdi = CLIFile1.vsmdi
+		CLIFile2.vsmdi = CLIFile2.vsmdi
+		CLIFile23.vsmdi = CLIFile23.vsmdi
+		CLIFile24.vsmdi = CLIFile24.vsmdi
+		CLIFile3.vsmdi = CLIFile3.vsmdi
+		CLIFile4.vsmdi = CLIFile4.vsmdi
+		CLIFile5.vsmdi = CLIFile5.vsmdi
+		CLIFile6.vsmdi = CLIFile6.vsmdi
+		CLIFile8.vsmdi = CLIFile8.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CLIFile8.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989A4726-7398-44AD-B5DF-860D0092F8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989A4726-7398-44AD-B5DF-860D0092F8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989A4726-7398-44AD-B5DF-860D0092F8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989A4726-7398-44AD-B5DF-860D0092F8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE374909-51EE-48B7-9F91-406BB4094617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE374909-51EE-48B7-9F91-406BB4094617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE374909-51EE-48B7-9F91-406BB4094617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE374909-51EE-48B7-9F91-406BB4094617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

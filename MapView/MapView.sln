@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapView", "MapView.csproj", "{1FF004A8-1B38-4614-A517-374067B6967F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapViewTest", "MapViewTest\MapViewTest.csproj", "{CC2C9C74-DBF4-4802-98E1-660D5B50A349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF004A8-1B38-4614-A517-374067B6967F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2C9C74-DBF4-4802-98E1-660D5B50A349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2C9C74-DBF4-4802-98E1-660D5B50A349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2C9C74-DBF4-4802-98E1-660D5B50A349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2C9C74-DBF4-4802-98E1-660D5B50A349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

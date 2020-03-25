@@ -1,0 +1,6 @@
+Antonio Cisternino (cisterni@di.unipi.it):
+  Main developer of CLIFileReader library.
+
+Donal Lafferty (laffertd@cs.tcd.ie): 
+  Fix of several bugs
+  Implemented support for accessing exception tables.
